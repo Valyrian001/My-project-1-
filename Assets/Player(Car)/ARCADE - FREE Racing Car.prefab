@@ -1073,7 +1073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 3117713915
+  GlobalObjectIdHash: 414324016
   InScenePlacedSourceGlobalObjectIdHash: 70760131
   DeferredDespawnTick: 0
   Ownership: 1
@@ -1110,10 +1110,6 @@ MonoBehaviour:
   acceleration: 800
   brakeForce: 5000
   maxTurnAngle: 10
-  NetworkPosition:
-    m_InternalValue: {x: 0, y: 0, z: 0}
-  NetworkRotation:
-    m_InternalValue: {x: 0, y: 0, z: 0, w: 0}
 --- !u!54 &4757266825615889399
 Rigidbody:
   m_ObjectHideFlags: 0
